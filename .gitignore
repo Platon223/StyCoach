@@ -1,0 +1,11 @@
+# Go backend
+backend/StyCoachBackend/.env
+backend/stycoachbackend/bin/
+backend/stycoachbackend/vendor/
+backend/stycoachbackend/*.exe
+
+# React Native
+StyCoach/node_modules/
+StyCoach/.expo/
+StyCoach/.env
+StyCoach/dist/
